@@ -96,3 +96,20 @@ body {
         transform: rotate(-15deg);
     }
 }
+
+@media (max-width: 768px){
+.icon {
+    width: 60px;
+    height: 55px;
+    font-size: 40px;
+
+}
+}
+@media (max-width: 480px){
+.icon {
+    width: 40px;
+    height: 35px;
+    font-size: 20px;
+
+}
+}
